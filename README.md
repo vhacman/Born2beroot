@@ -40,6 +40,10 @@
 </ol>
 
 <h2>Risultati dell'Apprendimento</h2>
-<p>Al termine del progetto, sarai in grado di utilizzare con sicurezza l'interfaccia a riga di comando per eseguire una vasta gamma di attività di sistema e di amministrazione. Avrai acquisito le competenze necessarie per automatizzare i flussi di lavoro, risolvere problemi e gestire in modo efficiente il sistema operativo tramite la CLI.</p>
+<p>Completando questo progetto, acquisisco una conoscenza approfondita dell'interfaccia a riga di comando e sono in grado di utilizzarla con sicurezza per una vasta gamma di attività. Sono capace di navigare abilmente nel file system, gestire file e directory, eseguire comandi di sistema e automatizzare task ripetitivi attraverso lo scripting.</p>
 
-<p>Questo progetto fornisce una solida base per chi vuole approfondire l'amministrazione di sistema, lo sviluppo software o intraprendere carriere in ambito IT che richiedono competenze nella CLI.</p>
+<p>Inoltre, sviluppo preziose competenze di problem solving e troubleshooting, imparando a utilizzare i comandi di diagnostica e i log di sistema per identificare e risolvere problemi. Sono anche in grado di gestire la connettività di rete e controllare i processi di sistema attraverso la CLI.</p>
+
+<p>Questo progetto non solo mi fornisce una solida base per l'amministrazione di sistema e lo sviluppo software, ma amplia anche le mie prospettive di carriera in ambito IT. Le competenze acquisite sono un valore aggiunto per ruoli come system administrator, devops engineer, site reliability engineer e molti altri.</p>
+
+<p>In sintesi, completando questo percorso di apprendimento sulla CLI, divento un professionista versatile e competente, in grado di affrontare una vasta gamma di sfide tecniche con sicurezza e di contribuire in modo significativo in contesti lavorativi che richiedono una solida conoscenza dell'interfaccia a riga di comando.</p>
