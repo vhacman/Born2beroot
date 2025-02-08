@@ -1,5 +1,3 @@
-Ecco il codice in formato Markdown (`.md`) per il README teorico del progetto sulla CLI:
-
 ```markdown
 # Progetto: Apprendimento dell'Interfaccia a Riga di Comando (CLI)
 
