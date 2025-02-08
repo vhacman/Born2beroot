@@ -1,49 +1,58 @@
-<h1>Progetto: Apprendimento dell'Interfaccia a Riga di Comando (CLI)</h1>
-
-<h2>Descrizione</h2>
-<p>Questo progetto ha l'obiettivo di far acquisire le competenze di base per utilizzare efficientemente l'interfaccia a riga di comando (CLI). La CLI è uno strumento potente che permette di interagire con il sistema operativo e di eseguire una vasta gamma di operazioni tramite comandi testuali.</p>
-
-<h2>Obiettivi di Apprendimento</h2>
-<p>Attraverso questo progetto, si acquisiranno le seguenti skill:</p>
-<ol>
-  <li><strong>Navigazione del file system</strong>: Imparare a spostarsi tra le directory, visualizzare il contenuto delle cartelle e comprendere la struttura gerarchica del file system.</li>
-  <li><strong>Gestione dei file</strong>: Acquisire competenze nella creazione, copia, spostamento ed eliminazione di file e directory tramite i comandi della CLI.</li>
-  <li><strong>Editing di testi</strong>: Utilizzare editor di testo da linea di comando per visualizzare, creare e modificare file di testo.</li>
-  <li><strong>Esecuzione di comandi</strong>: Familiarizzare con i comandi di base della CLI per eseguire operazioni di sistema, come visualizzare processi, gestire permessi e controllare l'utilizzo delle risorse.</li>
-  <li><strong>Scripting</strong>: Apprendere i fondamenti della creazione di script per automatizzare attività ripetitive e semplificare i flussi di lavoro.</li>
-  <li><strong>Connettività di rete</strong>: Esplorare i comandi relativi alla rete per configurare interfacce di rete, testare la connettività e trasferire file tra sistemi.</li>
-  <li><strong>Gestione dei processi</strong>: Imparare a visualizzare, avviare, mettere in pausa e terminare i processi attraverso la CLI.</li>
-  <li><strong>Risoluzione dei problemi</strong>: Sviluppare abilità di troubleshooting utilizzando i comandi di diagnostica e i log di sistema per identificare e risolvere problemi.</li>
-</ol>
-
-<h2>Prerequisiti</h2>
-<ul>
-  <li>Conoscenza di base dei concetti di informatica e dei sistemi operativi.</li>
-  <li>Accesso a un sistema operativo con un'interfaccia a riga di comando (es. Linux, macOS, Windows con WSL).</li>
-</ul>
-
-<h2>Risorse</h2>
-<ul>
-  <li>Documentazione ufficiale del sistema operativo in uso.</li>
-  <li>Tutorial e guide online sulla CLI e sui comandi specifici.</li>
-  <li>Libri di riferimento sull'amministrazione di sistema e sull'uso della shell.</li>
-</ul>
-
-<h2>Struttura del Progetto</h2>
-<ol>
-  <li>Introduzione alla CLI e configurazione dell'ambiente.</li>
-  <li>Esplorazione dei comandi di base per la navigazione e la gestione dei file.</li>
-  <li>Esercizi pratici sull'editing di testi e l'esecuzione di comandi.</li>
-  <li>Progetti di scripting per automatizzare attività comuni.</li>
-  <li>Esempi di utilizzo dei comandi di rete e gestione dei processi.</li>
-  <li>Scenari di troubleshooting guidati.</li>
-</ol>
-
-<h2>Risultati dell'Apprendimento</h2>
-<p>Completando questo progetto, acquisisco una conoscenza approfondita dell'interfaccia a riga di comando e sono in grado di utilizzarla con sicurezza per una vasta gamma di attività. Sono capace di navigare abilmente nel file system, gestire file e directory, eseguire comandi di sistema e automatizzare task ripetitivi attraverso lo scripting.</p>
-
-<p>Inoltre, sviluppo preziose competenze di problem solving e troubleshooting, imparando a utilizzare i comandi di diagnostica e i log di sistema per identificare e risolvere problemi. Sono anche in grado di gestire la connettività di rete e controllare i processi di sistema attraverso la CLI.</p>
-
-<p>Questo progetto non solo mi fornisce una solida base per l'amministrazione di sistema e lo sviluppo software, ma amplia anche le mie prospettive di carriera in ambito IT. Le competenze acquisite sono un valore aggiunto per ruoli come system administrator, devops engineer, site reliability engineer e molti altri.</p>
-
-<p>In sintesi, completando questo percorso di apprendimento sulla CLI, divento un professionista versatile e competente, in grado di affrontare una vasta gamma di sfide tecniche con sicurezza e di contribuire in modo significativo in contesti lavorativi che richiedono una solida conoscenza dell'interfaccia a riga di comando.</p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Learning the Command Line Interface (CLI)</title>
+</head>
+<body>
+    <h1>Project: Learning the Command Line Interface (CLI)</h1>
+    
+    <h2>Description</h2>
+    <p>This project is designed to help beginners develop foundational skills for effectively using the Command Line Interface (CLI). The CLI is a powerful tool that allows direct interaction with the operating system through text-based commands, making it an essential skill for anyone interested in tech, from developers to system administrators.</p>
+    
+    <h2>Learning Objectives</h2>
+    <ul>
+        <li><strong>Navigating the File System</strong>: Learn how to move between directories, list folder contents, and understand the hierarchical structure of the file system.</li>
+        <li><strong>File Management</strong>: Gain the ability to create, copy, move, and delete files and directories using CLI commands.</li>
+        <li><strong>Text Editing</strong>: Use command-line text editors to view, create, and modify text files.</li>
+        <li><strong>Executing Commands</strong>: Get familiar with essential CLI commands for system operations, such as viewing running processes, managing permissions, and checking system resources.</li>
+        <li><strong>Scripting</strong>: Learn the basics of scripting to automate repetitive tasks and streamline workflows.</li>
+        <li><strong>Network Connectivity</strong>: Explore networking-related commands to configure network interfaces, test connectivity, and transfer files between systems.</li>
+        <li><strong>Process Management</strong>: Understand how to list, start, pause, and terminate processes using the CLI.</li>
+        <li><strong>Troubleshooting</strong>: Develop problem-solving skills using diagnostic commands and system logs to identify and resolve issues.</li>
+    </ul>
+    
+    <h2>Prerequisites</h2>
+    <ul>
+        <li>Basic understanding of computer concepts and operating systems.</li>
+        <li>Access to an operating system with a command-line interface (e.g., Linux, macOS, or Windows with WSL).</li>
+    </ul>
+    
+    <h2>Resources</h2>
+    <ul>
+        <li>Official documentation for the operating system in use.</li>
+        <li>Online tutorials and guides on CLI commands and usage.</li>
+        <li>Reference books on system administration and shell usage.</li>
+    </ul>
+    
+    <h2>Project Structure</h2>
+    <ol>
+        <li>Introduction to the CLI and setting up the environment.</li>
+        <li>Exploring basic commands for navigation and file management.</li>
+        <li>Hands-on exercises with text editing and command execution.</li>
+        <li>Writing simple scripts to automate common tasks.</li>
+        <li>Practical examples of networking commands and process management.</li>
+        <li>Guided troubleshooting scenarios.</li>
+    </ol>
+    
+    <h2>Learning Outcomes</h2>
+    <p>By completing this project, you'll develop a solid understanding of the command line and gain confidence in using it for a variety of tasks. You'll be able to efficiently navigate the file system, manage files and directories, execute system commands, and automate tasks through scripting.</p>
+    
+    <p>Additionally, you'll enhance your problem-solving and troubleshooting skills by learning how to use diagnostic commands and system logs to resolve issues. You'll also gain insights into network connectivity and process management through the CLI.</p>
+    
+    <p>This project provides a strong foundation for system administration and software development, opening up opportunities in IT roles such as system administrator, DevOps engineer, site reliability engineer, and more.</p>
+    
+    <p>In short, by going through this beginner-friendly CLI learning path, you'll become a more versatile and capable tech professional, ready to handle various technical challenges with confidence.</p>
+</body>
+</html>
