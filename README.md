@@ -40,3 +40,7 @@ Additionally, you'll enhance your problem-solving and troubleshooting skills by 
 This project provides a strong foundation for system administration and software development, opening up opportunities in IT roles such as system administrator, DevOps engineer, site reliability engineer, and more. 🚀
 
 In short, by going through this beginner-friendly CLI learning path, you'll become a more versatile and capable tech professional, ready to handle various technical challenges with confidence. 💪💻
+
+## GitHub Stats 📊
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevGabi98&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevGabi98&layout=compact&theme=radical)
