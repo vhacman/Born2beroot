@@ -2,10 +2,23 @@
 ![Score](https://img.shields.io/badge/Score-In_Progress-yellow)
 # 🚀 Project: Learning the Command Line Interface (CLI) 🖥️
 ## 📖Personal Study Material📖
-➡️[Parte prima](Born2beroot.pdf) 
-## Cosa e' una macchina virtuale, come funziona, lo scopo. 
-## Debian(apt, aptitude e apparmor), sistema di rilascio, vantaggi e svantaggi;
-## Rocky, SELinux e DNF] 
+# Born2beroot
+[Parte prima](Born2beroot.pdf)
+
+Il documento tratta i seguenti argomenti:
+
+La Macchina Virtuale:
+Approfondimento sul concetto di virtualizzazione, funzionamento delle macchine virtuali e il loro scopo nel computing moderno. Analisi dei vantaggi nella gestione delle risorse hardware e nell'isolamento dei sistemi.
+
+Sistema Debian:
+- Sistema di gestione pacchetti: differenze tra apt e aptitude
+- AppArmor: sistema di sicurezza e controllo accessi
+- Sistema di rilascio Debian e le sue caratteristiche
+- Analisi dei vantaggi e svantaggi della distribuzione
+
+Sistema Rocky Linux:
+- Introduzione a SELinux e le sue funzionalità di sicurezza
+- DNF come gestore di pacchetti: caratteristiche e utilizzo
 ## 📖 Description
 This project is designed to help beginners develop foundational skills for effectively using the Command Line Interface (CLI). The CLI is a powerful tool that allows direct interaction with the operating system through text-based commands, making it an essential skill for anyone interested in tech, from developers to system administrators. 💻✨
 
