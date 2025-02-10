@@ -5,39 +5,11 @@
 # 🚀 Project: Learning the Command Line Interface (CLI) 🖥️
 ## 📖Personal Study Material📖
 [Parte prima](Prima_Parte.pdf)
-
 Il documento tratta i seguenti argomenti:
-
 La Macchina Virtuale:
-- È un computer simulato all'interno di un computer fisico con proprio sistema operativo e risorse
-- Funziona tramite Hypervisor (VMM) che può essere Bare-Metal (diretto sull'hardware) o Hosted (su sistema operativo)
-- Gestisce risorse come CPU, RAM, disco rigido e dispositivi I/O in modo isolato
-- Serve per ottimizzare l'uso dell'hardware e testare software in sicurezza
-
 Debian:
-- Sistema operativo libero basato su Kernel Linux (dal 1993)
-- Sistema di gestione pacchetti basato su:
-  - APT: strumento base per gestione pacchetti
-  - Aptitude: versione avanzata con migliore gestione delle dipendenze
-  - AppArmor: sistema di sicurezza per controllo accessi (MAC)
-- Sistema di rilascio su tre rami: Stable (stabile), Testing (in preparazione), Unstable (sviluppo)
-
 Rocky Linux:
-- Distribuzione enterprise compatibile con Red Hat Enterprise Linux
-- Usa DNF come gestore pacchetti (evoluzione di YUM)
-- Include SELinux per sicurezza avanzata
-- DNF offre:
-  - Gestione transazioni atomiche (tutto o niente)
-  - Consistenza del sistema
-  - Cache basata su SQLite
-  - Sistema di rollback per annullare modifiche problematiche
-
 Differenze Principali:
-- Debian usa APT/dpkg (.deb), Rocky usa DNF (.rpm)
-- Debian ha focus generale, Rocky punta al settore enterprise
-- Debian usa AppArmor, Rocky usa SELinux per la sicurezza
-- Rocky ha cicli di supporto più lunghi (10 anni)
-
 ## Born2beroot
 ## 📖 Description
 This project is designed to help beginners develop foundational skills for effectively using the Command Line Interface (CLI). The CLI is a powerful tool that allows direct interaction with the operating system through text-based commands, making it an essential skill for anyone interested in tech, from developers to system administrators. 💻✨
