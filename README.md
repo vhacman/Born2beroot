@@ -2,7 +2,7 @@
 ![Score](https://img.shields.io/badge/Score-In_Progress-yellow)
 # 🚀 Project: Learning the Command Line Interface (CLI) 🖥️
 ## 📖Personal Study Material📖
-[Parte prima ➡️ (Born2beroot.pdf) 
+[Parte prima] ➡️ (Born2beroot.pdf) 
 ## Cosa e' una macchina virtuale, come funziona, lo scopo. 
 ## Debian(apt, aptitude e apparmor), sistema di rilascio, vantaggi e svantaggi;
 ## Rocky, SELinux e DNF] 
