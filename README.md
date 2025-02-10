@@ -8,17 +8,34 @@
 Il documento tratta i seguenti argomenti:
 
 La Macchina Virtuale:
-Approfondimento sul concetto di virtualizzazione, funzionamento delle macchine virtuali e il loro scopo nel computing moderno. Analisi dei vantaggi nella gestione delle risorse hardware e nell'isolamento dei sistemi.
+- È un computer simulato all'interno di un computer fisico con proprio sistema operativo e risorse
+- Funziona tramite Hypervisor (VMM) che può essere Bare-Metal (diretto sull'hardware) o Hosted (su sistema operativo)
+- Gestisce risorse come CPU, RAM, disco rigido e dispositivi I/O in modo isolato
+- Serve per ottimizzare l'uso dell'hardware e testare software in sicurezza
 
-Sistema Debian:
-- Sistema di gestione pacchetti: differenze tra apt e aptitude
-- AppArmor: sistema di sicurezza e controllo accessi
-- Sistema di rilascio Debian e le sue caratteristiche
-- Analisi dei vantaggi e svantaggi della distribuzione
+Debian:
+- Sistema operativo libero basato su Kernel Linux (dal 1993)
+- Sistema di gestione pacchetti basato su:
+  - APT: strumento base per gestione pacchetti
+  - Aptitude: versione avanzata con migliore gestione delle dipendenze
+  - AppArmor: sistema di sicurezza per controllo accessi (MAC)
+- Sistema di rilascio su tre rami: Stable (stabile), Testing (in preparazione), Unstable (sviluppo)
 
-Sistema Rocky Linux:
-- Introduzione a SELinux e le sue funzionalità di sicurezza
-- DNF come gestore di pacchetti: caratteristiche e utilizzo
+Rocky Linux:
+- Distribuzione enterprise compatibile con Red Hat Enterprise Linux
+- Usa DNF come gestore pacchetti (evoluzione di YUM)
+- Include SELinux per sicurezza avanzata
+- DNF offre:
+  - Gestione transazioni atomiche (tutto o niente)
+  - Consistenza del sistema
+  - Cache basata su SQLite
+  - Sistema di rollback per annullare modifiche problematiche
+
+Differenze Principali:
+- Debian usa APT/dpkg (.deb), Rocky usa DNF (.rpm)
+- Debian ha focus generale, Rocky punta al settore enterprise
+- Debian usa AppArmor, Rocky usa SELinux per la sicurezza
+- Rocky ha cicli di supporto più lunghi (10 anni)
 ## 📖 Description
 This project is designed to help beginners develop foundational skills for effectively using the Command Line Interface (CLI). The CLI is a powerful tool that allows direct interaction with the operating system through text-based commands, making it an essential skill for anyone interested in tech, from developers to system administrators. 💻✨
 
