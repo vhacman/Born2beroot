@@ -4,7 +4,7 @@
 ![Status](https://img.shields.io/badge/Status-in_progress-violet)
 # 🚀 Project: Learning the Command Line Interface (CLI) 🖥️
 ## 📖Personal Study Material📖
-[Parte prima](Parte_Prima.pdf)
+[Parte prima](Prima_Parte.pdf)
 
 Il documento tratta i seguenti argomenti:
 
