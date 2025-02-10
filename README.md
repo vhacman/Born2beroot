@@ -1,5 +1,5 @@
 ![42 Roma Luiss](https://img.shields.io/badge/42-Roma_Luiss-green)
-![Score](https://img.shields.io/badge/Score-In_Progress-yellow)
+![Score](https://img.shields.io/badge/Score-green)
 ![Created](https://img.shields.io/badge/Created-February_2025-blue)
 ![Status](https://img.shields.io/badge/Status-in_progress-violet)
 # 🚀 Project: Learning the Command Line Interface (CLI) 🖥️
