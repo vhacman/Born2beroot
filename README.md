@@ -4,7 +4,6 @@
 ![Status](https://img.shields.io/badge/Status-in_progress-violet)
 # 🚀 Project: Learning the Command Line Interface (CLI) 🖥️
 ## 📖Personal Study Material📖
-# Born2beroot
 [Parte prima](Born2beroot.pdf)
 
 Il documento tratta i seguenti argomenti:
@@ -38,6 +37,8 @@ Differenze Principali:
 - Debian ha focus generale, Rocky punta al settore enterprise
 - Debian usa AppArmor, Rocky usa SELinux per la sicurezza
 - Rocky ha cicli di supporto più lunghi (10 anni)
+
+## Born2beroot
 ## 📖 Description
 This project is designed to help beginners develop foundational skills for effectively using the Command Line Interface (CLI). The CLI is a powerful tool that allows direct interaction with the operating system through text-based commands, making it an essential skill for anyone interested in tech, from developers to system administrators. 💻✨
 
