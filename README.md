@@ -2,7 +2,7 @@
 ![Score](https://img.shields.io/badge/Score-In_Progress-yellow)
 # 🚀 Project: Learning the Command Line Interface (CLI) 🖥️
 ## 📖Personal Study Material📖
-[Born2beroot](Born2beroot.pdf)
+[Parte prima: cosa e' una macchina virtuale, come funziona, lo scopo. Debian(apt, aptitude e apparmor), sistema di rilascio, vantaggi e svantaggi;Rocky, SELinux e DNF](Born2beroot.pdf)
 ## 📖 Description
 This project is designed to help beginners develop foundational skills for effectively using the Command Line Interface (CLI). The CLI is a powerful tool that allows direct interaction with the operating system through text-based commands, making it an essential skill for anyone interested in tech, from developers to system administrators. 💻✨
 
