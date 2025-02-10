@@ -1,5 +1,6 @@
 ![42 Roma Luiss](https://img.shields.io/badge/42-Roma_Luiss-green)
 ![Score](https://img.shields.io/badge/Score-In_Progress-yellow)
+![Created](https://img.shields.io/badge/Created-February_2025-blue)
 # 🚀 Project: Learning the Command Line Interface (CLI) 🖥️
 ## 📖Personal Study Material📖
 # Born2beroot
