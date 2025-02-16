@@ -1,53 +1,78 @@
-![42 Roma Luiss](https://img.shields.io/badge/42-Roma_Luiss-green)
-![Score](https://img.shields.io/badge/Score-green)
-![Created](https://img.shields.io/badge/Created-February_2025-blue)
-![Status](https://img.shields.io/badge/Status-in_progress-violet)
-# 🚀 Project: Learning the Command Line Interface (CLI) 🖥️
-## 📖Personal Study Material📖
-[Parte prima](Prima_Parte.pdf)
+# Born2beroot
 
-Il documento tratta i seguenti argomenti:
-La Macchina Virtuale, Debian, Rocky Linux, Differenze Principali.
-## Born2beroot
-## 📖 Description
-This project is designed to help beginners develop foundational skills for effectively using the Command Line Interface (CLI). The CLI is a powerful tool that allows direct interaction with the operating system through text-based commands, making it an essential skill for anyone interested in tech, from developers to system administrators. 💻✨
+## 🚀 Overview
+Born2beroot is a system administration project focused on learning the fundamentals of virtualization, Linux system management, and essential security practices. The project involves creating a virtual machine running Debian Linux with specific security configurations.
 
-## 🎯 Learning Objectives
-- 📂 **Navigating the File System**: Learn how to move between directories, list folder contents, and understand the hierarchical structure of the file system.
-- 📁 **File Management**: Gain the ability to create, copy, move, and delete files and directories using CLI commands.
-- 📝 **Text Editing**: Use command-line text editors to view, create, and modify text files.
-- ⚙️ **Executing Commands**: Get familiar with essential CLI commands for system operations, such as viewing running processes, managing permissions, and checking system resources.
-- 🤖 **Scripting**: Learn the basics of scripting to automate repetitive tasks and streamline workflows.
-- 🌐 **Network Connectivity**: Explore networking-related commands to configure network interfaces, test connectivity, and transfer files between systems.
-- 🔄 **Process Management**: Understand how to list, start, pause, and terminate processes using the CLI.
-- 🛠️ **Troubleshooting**: Develop problem-solving skills using diagnostic commands and system logs to identify and resolve issues.
+## 📋 Key Components
 
-## 📌 Prerequisites
-- 💡 Basic understanding of computer concepts and operating systems.
-- 🖥️ Access to an operating system with a command-line interface (e.g., Linux, macOS, or Windows with WSL).
+### Virtual Machine Setup
+- Created using Oracle VirtualBox
+- Based on Debian GNU/Linux
+- Implements LVM (Logical Volume Management) for flexible disk space management
+- Includes partitioned storage following project requirements
 
-## 📚 Resources
-- 📜 Official documentation for the operating system in use.
-- 📖 Online tutorials and guides on CLI commands and usage.
-- 📕 Reference books on system administration and shell usage.
+### Security Features
+- UFW (Uncomplicated Firewall) configuration
+- Strong password policy using `libpam-pwquality`
+- SSH service running on port 4242
+- Root login disabled
+- AppArmor enabled for enhanced security
+- Secure user management and sudo configuration
 
-## 🗂️ Project Structure
-1. 🎬 Introduction to the CLI and setting up the environment.
-2. 📂 Exploring basic commands for navigation and file management.
-3. ✍️ Hands-on exercises with text editing and command execution.
-4. 🤖 Writing simple scripts to automate common tasks.
-5. 🌐 Practical examples of networking commands and process management.
-6. 🔍 Guided troubleshooting scenarios.
+### System Monitoring
+- Custom monitoring script displaying:
+  - System architecture
+  - CPU physical/virtual cores
+  - Memory usage
+  - Disk usage
+  - CPU load
+  - Last boot time
+  - LVM status
+  - Active connections
+  - User information
+  - Network status
+  - Sudo command history
 
-## 🏆 Learning Outcomes
-By completing this project, you'll develop a solid understanding of the command line and gain confidence in using it for a variety of tasks. You'll be able to efficiently navigate the file system, manage files and directories, execute system commands, and automate tasks through scripting. 🎯
+### Bonus Features
+- Functional WordPress website
+- Service management (Lighttpd, MariaDB, PHP)
+- Additional service configuration
 
-Additionally, you'll enhance your problem-solving and troubleshooting skills by learning how to use diagnostic commands and system logs to resolve issues. You'll also gain insights into network connectivity and process management through the CLI. 🛠️
+## 🛠️ Technical Details
 
-This project provides a strong foundation for system administration and software development, opening up opportunities in IT roles such as system administrator, DevOps engineer, site reliability engineer, and more. 🚀
+### Password Policy
+- Minimum 10 characters
+- Contains uppercase and lowercase letters
+- At least one number
+- No more than 3 consecutive identical characters
+- Username not included in password
+- 7 characters different from previous password
+- Password expires every 30 days
+- Minimum 2 days between password changes
+- Warning 7 days before expiration
 
-In short, by going through this beginner-friendly CLI learning path, you'll become a more versatile and capable tech professional, ready to handle various technical challenges with confidence. 💪💻
+### Sudo Configuration
+- Failed attempts limited to 3
+- Custom error message
+- Command logging enabled
+- TTY required
+- Secure paths defined
 
-## GitHub Stats 📊
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevGabi98&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevGabi98&layout=compact&theme=radical)
+### System Services
+- SSH configured for secure remote access
+- UFW configured with necessary ports
+- Monitoring script runs every 10 minutes via crontab
+
+## 🎯 Learning Outcomes
+- Understanding of Linux system administration
+- Implementation of system security measures
+- User and group management
+- Service configuration and management
+- Virtualization concepts
+- Disk partitioning and LVM
+- Basic web server setup
+- System monitoring and maintenance
+
+## 📝 Notes
+This project was completed as part of the 42 school curriculum, focusing on practical system administration skills and security best practices. The implementation strictly follows the project requirements while providing hands-on experience with real-world system administration tasks.
+
