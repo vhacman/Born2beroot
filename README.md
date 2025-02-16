@@ -1,10 +1,23 @@
 # Born2beroot
 
+![42 Roma Luiss](https://img.shields.io/badge/42-Roma_Luiss-green)
+![Score](https://img.shields.io/badge/Score-green)
+![Created](https://img.shields.io/badge/Created-February_2025-blue)
+![Status](https://img.shields.io/badge/Status-in_progress-violet)
+
+## 📖 Personal Study Material 📖
+[Parte prima](Prima_Parte.pdf)
+
+[Parte seconda](Parte_Seconda.pdf)
+
+[Preparazione alla Defence](Preparazione_Defence.pdf)
+
+[Tabella Comandi](Tabella_Comandi.pdf)
+
 ## 🚀 Overview
 Born2beroot is a system administration project focused on learning the fundamentals of virtualization, Linux system management, and essential security practices. The project involves creating a virtual machine running Debian Linux with specific security configurations.
 
 ## 📋 Key Components
-
 ### Virtual Machine Setup
 - Created using Oracle VirtualBox
 - Based on Debian GNU/Linux
@@ -76,3 +89,6 @@ Born2beroot is a system administration project focused on learning the fundament
 ## 📝 Notes
 This project was completed as part of the 42 school curriculum, focusing on practical system administration skills and security best practices. The implementation strictly follows the project requirements while providing hands-on experience with real-world system administration tasks.
 
+## GitHub Stats 📊
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevGabi98&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevGabi98&layout=compact&theme=radical)
