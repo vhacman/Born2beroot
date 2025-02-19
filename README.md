@@ -3,7 +3,7 @@
 ![42 Roma Luiss](https://img.shields.io/badge/42-Roma_Luiss-green)
 ![110](https://img.shields.io/badge/110-green)
 ![Created](https://img.shields.io/badge/Created-February_2025-blue)
-![Status](https://img.shields.io/badge/Status-in_progress-violet)
+![Status](https://img.shields.io/badge/Status-completed-violet)
 
 ## 📖 Personal Study Material 📖
 [Parte prima](Prima_Parte.pdf)
