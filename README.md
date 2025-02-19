@@ -1,7 +1,7 @@
 # Born2beroot
 
 ![42 Roma Luiss](https://img.shields.io/badge/42-Roma_Luiss-green)
-![Score](https://img.shields.io/badge/Score-green)
+![110](https://img.shields.io/badge/Score-green)
 ![Created](https://img.shields.io/badge/Created-February_2025-blue)
 ![Status](https://img.shields.io/badge/Status-in_progress-violet)
 
