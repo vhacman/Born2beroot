@@ -1,7 +1,3 @@
-Certo! Ecco la traduzione in italiano:
-
----
-
 # Born2beroot
 
 ![42 Roma Luiss](https://img.shields.io/badge/42-Roma_Luiss-green)  
