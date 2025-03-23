@@ -91,6 +91,3 @@ Questo progetto è stato completato come parte del percorso formativo della scuo
 ![Statistiche GitHub](https://github-readme-stats.vercel.app/api?username=vhacman&show_icons=true&theme=radical)  
 ![Linguaggi Principali](https://github-readme-stats.vercel.app/api/top-langs/?username=vhacman&layout=compact&theme=radical)
 
----
-
-Se vuoi, posso anche aiutarti a trasformare questo in un file README per GitHub o sistemarlo graficamente per una presentazione. Fammi sapere!
